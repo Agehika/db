@@ -1,0 +1,7 @@
+В pgAdmin 4 создаем бд spa
+Запускаем файлы:
+1. models.py - файл с моделями
+2. data.py   - заполнение бд
+requests.py - функции 
+test.py     - тестирование функций 
+apiF        - FastApi
